@@ -1,6 +1,6 @@
 # Discord.py Bot Self
 
-Foobar is a Python library for dealing with word pluralization.
+**Github นี้ใช้สำหรับกรณีศึกษาเท่านั้น ถ้าหากโดนแบนทางเราจะไม่รับผิดชอบทุกประการ**
 
 ## Installation
 
