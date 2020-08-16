@@ -9,7 +9,8 @@
 
 ```bash
 pip install discord.py
-
+```
+```bash
 pip install asyncio
 ```
 
