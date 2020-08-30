@@ -9,7 +9,7 @@ PREFIX = ">"
 TOKEN = "**TOKEN**"
 
 
-# ถ้าอยากให้คนอื่นใช้คำสั่งได้ปรับ self_bot=True จาก True เป็น False
+# ถ้าอยากให้คนอื่นใช้คำสั่ง ได้ปรับ self_bot=True จาก True เป็น False
 bot = commands.Bot(command_prefix=PREFIX, description='''Selfbot by Larina''', self_bot=True)
 
 #################
